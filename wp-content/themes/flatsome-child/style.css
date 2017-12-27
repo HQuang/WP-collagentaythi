@@ -1,0 +1,35 @@
+/*
+Theme Name: Flatsome Child
+Description: This is a child theme for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.0
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+.btn-tab2{
+	color: #e5488e !important;
+    border: 1px solid #e5488e !important;
+}
+.btn-tab2:hover{
+	color:white !important;
+	background:#e5488e !important;
+}
+.btn-tab3{	
+    border: 1px solid #fff !important;
+}
+.btn-tab3 span{
+	color: #fff !important;
+}
+.btn-tab3:hover{
+	background:#fff !important;
+}
+.btn-tab3 span:hover{
+	color: #e5488e !important;
+}
+
+@media only screen and (max-width: 48em) {
+/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+
+}
